@@ -21,7 +21,7 @@ I'm **Cloud_wiz**,
 
 ---
 
-## 🧠 About
+## About
 
 I am the founder of **Sentrix**, an independent hardware initiative based in India focused on building secure, purpose-driven embedded systems and modern cybersecurity-oriented hardware platforms.
 
@@ -36,7 +36,7 @@ Sentrix operates independently — built with clarity, discipline, and long-term
 
 ---
 
-## ⚙️ Technical Domain
+## Technical Domain
 
 ```yaml
 Specialization:
@@ -54,7 +54,7 @@ Workflow Integration:
 
 ---
 
-## 📊 Engineering Focus Metrics
+## Engineering Focus Metrics
 
 - Performance-first embedded firmware  
 - Security-driven system architecture  
@@ -64,7 +64,7 @@ Workflow Integration:
 
 ---
 
-## 🧭 Current Direction
+## Current Direction
 
 - Designing advanced secure embedded platforms  
 - Refining AI-integrated hardware development workflows  
@@ -72,7 +72,7 @@ Workflow Integration:
 
 ---
 
-## 🧩 Engineering Principles
+## Engineering Principles
 
 - Clarity in design  
 - Security by intention  
@@ -81,7 +81,7 @@ Workflow Integration:
 
 ---
 
-## 📈 GitHub Analytics
+##  GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sentrix-wiz&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -103,7 +103,7 @@ Secure • Functional • Future-Ready
 
 ---
 
-## 🌐 Connect
+## Connect
 
 <div align="center">
 
