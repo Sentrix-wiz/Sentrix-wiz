@@ -4,7 +4,7 @@
 
 <br/>
 
-# Hey there! 👋 I'm **Cloud_wiz**,
+# Cloud_wiz
 
 ### Founder & CEO — Sentrix  
 **Embedded Systems • AI-Driven Engineering • Secure Hardware Architect**
