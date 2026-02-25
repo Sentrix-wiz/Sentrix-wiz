@@ -1,10 +1,15 @@
 <div align="center">
 
 <img src="./sentrix-logo.png" width="160" />
-
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=22D3EE&center=true&vCenter=true&width=580&lines=Embedded+Systems+Architect;Secure+Hardware+Engineer;AI-Driven+Engineering+%7C+PCB+Design;Prototype+%E2%86%92+Refine+%E2%86%92+Ship)](https://git.io/typing-svg)
+![](https://img.shields.io/badge/Cloud__wiz-Founder%20%26%20CEO%20%40%20Sentrix-22d3ee?style=flat-square&labelColor=0d1117)
+&nbsp;
+![](https://img.shields.io/badge/India-0d1117?style=flat-square&logo=googlemaps&logoColor=22d3ee&label=📍)
+&nbsp;
+![](https://komarev.com/ghpvc/?username=Sentrix-wiz&style=flat-square&color=22d3ee&label=Profile+Views&labelColor=0d1117)
+
+</div>
 
 <br/>
 
