@@ -1,41 +1,49 @@
 <div align="center">
 
-<img src="./sentrix-logo.png" width="150" />
+<img src="./sentrix-logo.png" width="140" />
 
-<br/>
+<h2 style="margin-top:12px; font-weight:600;">Sentrix</h2>
 
-<p style="opacity:0.65; font-size:15px; margin-top:10px;">
-Founder & CEO • Sentrix
+<p style="opacity:0.65; font-size:15px; margin:6px 0;">
+Founder & CEO • Hardware Systems Architect
 </p>
 
-<p style="opacity:0.8; font-size:14px;">
-Embedded Systems • AI-Driven Engineering • IoT Devices • PCB Architecture
+<p style="opacity:0.8; font-size:14px; margin:4px 0;">
+Embedded Systems • AI-Driven Engineering • IoT • PCB Architecture
 </p>
 
 </div>
 
-<br/><br/>
+---
 
 ### About
 
-Sentrix is an independent hardware initiative based in India, focused on designing and refining practical embedded systems and modern cybersecurity learning platforms.
+Independent hardware initiative based in India, focused on designing and refining practical embedded systems and modern cybersecurity learning platforms.
 
-Work combines firmware engineering, AI-assisted development workflows, and system-level architecture to build secure, purpose-driven technology.
+Work combines firmware engineering, AI-assisted workflows, and system-level architecture to build secure, purpose-driven technology.
 
-<br/>
+---
 
-### Core Focus
+### What I Build
 
-Embedded System Architecture  
-AI-Integrated Hardware Workflows  
-IoT Device Engineering  
-PCB Design & Hardware Prototyping  
-Firmware Optimization  
-System & Interface Design  
+- Embedded platforms and custom device architectures  
+- AI-assisted hardware development workflows  
+- Secure IoT systems  
+- PCB designs from prototype to production  
+- Optimized firmware for real-world deployment  
 
-<br/><br/>
+---
 
-<div align="center" style="opacity:0.6; font-size:14px; line-height:1.6;">
+### Engineering Philosophy
+
+Open engineering mindset  
+Responsible security research  
+Transparent experimentation  
+Independent system thinking  
+
+---
+
+<div align="right" style="opacity:0.7;" margin-top:20px;">
 
 Secure • Functional • Future-Ready  
 
@@ -43,14 +51,14 @@ sentrix.org@gmail.com
 
 </div>
 
-<br/>
+---
 
-<div align="center" style="opacity:0.6; font-size:14px;">
+<div align="right" style="opacity:0.7;">
 
-<a href="https://github.com/YOUR_USERNAME">GitHub</a> • 
-<a href="https://instagram.com/YOUR_USERNAME">Instagram</a> • 
-<a href="https://youtube.com/@YOUR_CHANNEL">YouTube</a> • 
-<a href="https://twitter.com/YOUR_USERNAME">X</a> • 
+<a href="https://github.com/YOUR_USERNAME">GitHub</a> •
+<a href="https://instagram.com/YOUR_USERNAME">Instagram</a> •
+<a href="https://youtube.com/@YOUR_CHANNEL">YouTube</a> •
+<a href="https://twitter.com/YOUR_USERNAME">X</a> •
 <a href="https://discord.gg/YOUR_INVITE">Discord</a>
 
 </div>
