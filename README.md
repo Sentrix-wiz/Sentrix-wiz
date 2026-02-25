@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./sentrix-logo.png" width="80" />
+<img src="./sentrix-logo.png" hegiht="80" width="170" />
 
 <br/>
 
