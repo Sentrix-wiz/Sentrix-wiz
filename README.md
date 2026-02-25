@@ -1,13 +1,22 @@
+<!-- Top Wave Background -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=150&section=header" />
+
+<div align="center" style="margin-top:-110px;">
+
+<img src="./sentrix-logo.png" width="140" />
+
+</div>
+
+<br/><br/>
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:1a1a1a&height=120&section=header&text=Hi%20there%2C%20I%27m%20Cloud_wiz&fontSize=38&fontColor=ffffff" />
-
-<p style="opacity:0.7; font-size:15px; margin:8px 0;">
+<p style="opacity:0.8; font-size:15px; margin:8px 0;">
 Founder & CEO • Sentrix
 </p>
 
-<p style="opacity:0.85; font-size:14px; margin:4px 0;">
-Embedded Systems • AI-Driven Engineering • IoT Devices • PCB Desinger
+<p style="opacity:0.9; font-size:14px; margin:4px 0;">
+Embedded Systems • AI-Driven Engineering • IoT Devices • PCB Architecture
 </p>
 
 </div>
@@ -16,27 +25,33 @@ Embedded Systems • AI-Driven Engineering • IoT Devices • PCB Desinger
 
 ### About
 
-Sentrix is an independent hardware initiative based in India focused on building purpose-driven embedded systems and modern cybersecurity hardware platforms.
+Hey there! 👋
 
-Development integrates firmware engineering, AI-assisted workflows, and system-level architecture to create secure, production-ready technology.
+I'm **Cloud_wiz**, founder & CEO of **Sentrix** — an independent hardware initiative based in India.
+
+I design and build purpose-driven embedded systems and modern cybersecurity hardware platforms.
+
+My work integrates firmware engineering, AI-assisted development workflows, and system-level architecture to create secure, production-ready technology.
+
+I build independently. I experiment openly. I refine continuously.
 
 ---
 
 ### Current Direction
 
-Designing advanced embedded platforms and secure learning-driven hardware systems.
+Designing advanced embedded platforms focused on security, modularity, and real-world deployment.
 
-Refining AI-assisted engineering workflows to accelerate practical hardware development.
+Refining AI-integrated engineering workflows to accelerate practical hardware innovation.
 
 ---
 
 ### Core Expertise
 
-- Embedded system architecture and device design  
-- AI-integrated hardware workflows  
-- IoT system engineering  
-- PCB design from prototype to deployment  
-- Firmware optimization for real-world environments  
+- Embedded system architecture & custom device design  
+- AI-assisted hardware engineering workflows  
+- Secure IoT system development  
+- PCB design from prototype to production  
+- Firmware optimization for reliability and performance  
 
 ---
 
@@ -45,11 +60,11 @@ Refining AI-assisted engineering workflows to accelerate practical hardware deve
 Clarity in design.  
 Security by intention.  
 Function before complexity.  
-Built and refined independently.
+Built in India. 🇮🇳  
 
 ---
 
-<div style="opacity:0.7; margin-top:20px;">
+<div style="opacity:0.75; margin-top:20px;">
 
 Secure • Functional • Future-Ready  
 
@@ -59,9 +74,10 @@ sentrix.org@gmail.com
 
 ---
 
-<div style="opacity:0.7;">
+<div style="opacity:0.75;">
 
 GitHub • Instagram • YouTube • X • Discord
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:1a1a1a&height=120&section=header&fontSize=38&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=150&section=footer" />
+
 </div>
