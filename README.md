@@ -1,68 +1,74 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f3460,100:1a1a2e&height=160&section=header&text=Cloud_wiz&fontSize=52&fontColor=00d4ff&desc=Founder%20%26%20CEO%20%40%20Sentrix&descAlignY=65&descColor=ffffff" />
+# Cloud_wiz
+
+### Founder & CEO @ Sentrix  
+Embedded Systems • AI-Driven Engineering • IoT • PCB Architecture
 
 </div>
 
-# Hey there 👋
+---
 
-I'm **Cloud_wiz**, Founder & CEO of **Sentrix**.
+## Hey there 👋
 
-I design and build secure, production-ready embedded systems and modern hardware platforms.
+I'm **Cloud_wiz**, founder of **Sentrix** — an independent hardware initiative focused on building secure, production-ready embedded systems.
 
 If an idea solves a real-world problem, I prototype it.  
 If it works, I refine it.  
 If it matters, I ship it.
 
+I build real systems — not demos.
+
 ---
 
 ## About Sentrix
 
-Sentrix is an independent hardware initiative focused on:
+Sentrix focuses on developing:
 
-• Secure embedded architectures  
-• Modular IoT device platforms  
-• AI-assisted engineering workflows  
-• Production-ready PCB and firmware systems  
+- Secure embedded architectures  
+- Modular IoT device platforms  
+- AI-assisted hardware engineering workflows  
+- Production-ready PCB and firmware systems  
 
-The goal is simple — build real systems, not experiments.
+Designed for reliability. Built for deployment.
 
 ---
 
-## What I'm Currently Building
+## What I'm Currently Working On
 
 - Advanced embedded platforms with layered security  
-- AI-integrated hardware development workflows  
-- Custom device architectures from PCB to firmware  
-- Reliable firmware optimized for constrained environments  
+- AI-integrated engineering workflows for hardware acceleration  
+- Custom device architectures from schematic to firmware  
+- Performance-optimized firmware for constrained environments  
 
 ---
 
 ## Core Expertise
 
 **Embedded System Architecture**  
-Low-level system design built for reliability and performance.
+Low-level system design engineered for stability and efficiency.
 
 **Secure IoT Engineering**  
-Security-first device and communication architecture.
+End-to-end security across hardware, firmware, and communication layers.
 
 **PCB Design & Production**  
-From schematic to manufacturable board.
+From concept to manufacturable board design.
 
 **Firmware Optimization**  
-Memory-efficient, stable, real-world deployable firmware.
+Memory-efficient, stable, production-grade firmware.
 
 **Hardware–Software Co-Design**  
-Aligning physical capability with intelligent software systems.
+Aligning physical hardware capability with intelligent software systems.
 
 ---
 
-## Engineering Principles
+## Engineering Philosophy
 
 Clarity in design.  
 Security by intention.  
 Function before complexity.  
-Independent. Product-driven.
+
+Independent. Focused. Product-driven.
 
 ---
 
@@ -81,7 +87,5 @@ Discord: https://discord.gg/YOUR_INVITE
 <div align="center">
 
 Secure • Functional • Future-Ready
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:0f3460,100:0d1117&height=100&section=footer" />
 
 </div>
