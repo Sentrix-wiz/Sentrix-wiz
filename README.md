@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f3460,100:1a1a2e&height=200&section=header&text=Cloud_wiz&fontSize=70&fontColor=00d4ff&fontAlignY=38&desc=Founder%20%26%20CEO%20%40%20Sentrix&descAlignY=60&descColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f3460,100:1a1a2e&height=200&section=header&text=Cloud_wiz&fontSize=70&fontColor=00d4ff&fontAlignY=38&desc=Founder%20%26%20CEO%20%40%20Sentrix&descAlignY=60&descColor=ffffff&animation=fadeIn" />
 
 </div>
 
