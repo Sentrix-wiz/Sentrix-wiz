@@ -2,7 +2,9 @@
 
 <img src="./sentrix-logo.png" width="160" />
 
-# Cloud_wiz
+# Hey there! 👋
+
+I'm **Cloud_wiz**,
 
 ### Founder & CEO — Sentrix  
 **Embedded Systems • AI-Driven Engineering • Secure Hardware Architect**
@@ -34,6 +36,7 @@ Sentrix operates independently — built with clarity, discipline, and long-term
 
 ## ⚙️ Technical Domain
 
+```yaml
 Specialization:
   - Embedded System Architecture
   - IoT Device Engineering
@@ -45,29 +48,46 @@ Workflow Integration:
   - AI-assisted engineering refinement
   - Learning-driven system design
   - Practical hardware deployment pipelines
+```
 
-Engineering Focus Metrics
- - Performance-first embedded firmware
- - Security-driven system architecture
- - Independent R&D execution
- - Prototype → production-ready workflows
- - IoT connectivity & device orchestration
+---
 
-Current Direction
- - Designing advanced secure embedded platforms
- - Refining AI-integrated hardware development workflows
- - Building scalable, learning-driven hardware systems
+## 📊 Engineering Focus Metrics
 
-Engineering Principles
- - Clarity in design.
- - Security by intention.
- - Function before complexity.
- - Built and refined independently.
+- Performance-first embedded firmware  
+- Security-driven system architecture  
+- Independent R&D execution  
+- Prototype → production-ready workflows  
+- IoT connectivity & device orchestration  
+
+---
+
+## 🧭 Current Direction
+
+- Designing advanced secure embedded platforms  
+- Refining AI-integrated hardware development workflows  
+- Building scalable, learning-driven hardware systems  
+
+---
+
+## 🧩 Engineering Principles
+
+- Clarity in design  
+- Security by intention  
+- Function before complexity  
+- Built and refined independently  
 
 ---
 
 ## 📈 GitHub Analytics
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Sentrix-wiz&show_icons=true&theme=tokyonight&hide_border=true"/> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sentrix-wiz&theme=tokyonight&hide_border=true"/> </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sentrix-wiz&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sentrix-wiz&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
@@ -81,7 +101,7 @@ Secure • Functional • Future-Ready
 
 ---
 
-##🌐 Connect
+## 🌐 Connect
 
 <div align="center">
 
