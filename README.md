@@ -1,67 +1,56 @@
 <div align="center">
 
-<img src="./sentrix-logo.png" width="180" />
+<img src="./sentrix-logo.png" width="140" />
 
-<h1>Sentrix</h1>
+<h1 style="font-weight:600; margin-top:10px;">Sentrix</h1>
 
-<p style="opacity:0.7;">
-Founder & CEO • Sentrix Hardware
+<p style="opacity:0.6; font-size:15px;">
+Founder & CEO • Hardware Systems Architect
 </p>
 
-<p style="opacity:0.85;">
-Embedded Systems • AI-Driven Engineering • IoT Devices • PCB Architecture
+<p style="opacity:0.75; font-size:14px;">
+Embedded Systems • AI-Driven Engineering • IoT • PCB Design
 </p>
 
 </div>
 
----
+<br/>
 
 ### About
 
-Sentrix is an independent hardware initiative based in India, focused on building practical embedded systems and modern cybersecurity learning platforms.
+Independent hardware initiative based in India, focused on building practical embedded systems and modern cybersecurity learning platforms.
 
-Development combines firmware engineering, AI-assisted workflows, and system-level architecture to create secure, purpose-built technology.
+Combining firmware engineering, AI-assisted workflows, and system-level design to create secure, purpose-built technology.
 
----
+<br/>
 
-### Core Areas
+### Core Focus
 
-• Embedded Architecture & Arduino Systems  
-• AI-Assisted Hardware Engineering  
-• IoT Device Development  
-• PCB Design & Prototyping  
-• Firmware Optimization  
-• System & Interface Design  
+Embedded Architecture  
+AI-Assisted Hardware Engineering  
+IoT Device Development  
+PCB Design & Prototyping  
+Firmware Optimization  
+System Interface Design  
 
----
+<br/>
 
-### Engineering Principles
-
-• Open engineering mindset  
-• Responsible security research  
-• Transparent experimentation  
-• Built and refined independently  
-
----
-
-<div align="center">
+<div align="center" style="opacity:0.6; font-size:14px;">
 
 Secure • Functional • Future-Ready  
 
-📫 sentrix.org@gmail.com  
+sentrix.org@gmail.com  
 
 </div>
 
----
+<br/>
 
-### Connect
+<div align="center" style="opacity:0.6; font-size:14px;">
 
-<div align="center">
-
-<a href="https://github.com/YOUR_USERNAME">GitHub</a> • 
-<a href="https://instagram.com/YOUR_USERNAME">Instagram</a> • 
-<a href="https://youtube.com/@YOUR_CHANNEL">YouTube</a> • 
-<a href="https://twitter.com/YOUR_USERNAME">X</a> • 
+<a href="https://github.com/YOUR_USERNAME">GitHub</a>  
+<a href="https://instagram.com/YOUR_USERNAME">Instagram</a>  
+<a href="https://youtube.com/@YOUR_CHANNEL">YouTube</a>  
+<a href="https://twitter.com/YOUR_USERNAME">X</a>  
 <a href="https://discord.gg/YOUR_INVITE">Discord</a>
 
 </div>
