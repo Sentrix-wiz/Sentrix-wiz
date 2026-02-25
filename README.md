@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="./sentrix-logo.png" width="140" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=140&section=header&text=I'm **Cloud_wiz**&fontSize=40&fontColor=ffffff&animation=fadeIn" />)
 
 <p style="opacity:0.7; font-size:15px; margin:8px 0;">
-Founder & CEO • Hardware Systems Architect
+Founder & CEO • Sentrix
 </p>
 
 <p style="opacity:0.85; font-size:14px; margin:4px 0;">
