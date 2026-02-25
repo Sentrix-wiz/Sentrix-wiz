@@ -21,11 +21,7 @@ Blending firmware engineering, AI-assisted workflows, and system-level thinking 
 
 ---
 
-### Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=arduino,cpp,python,js,react,nodejs,linux,git" />
-</p>
 
 ---
 
@@ -46,6 +42,22 @@ Secure • Functional • Future-Ready
 
 <p align="center">
 📫 sentrix.org@gmail.com
+</p>
+
+---
+
+### Connect
+
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
 <!-- Animated Footer -->
