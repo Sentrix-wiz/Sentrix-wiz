@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=140&section=header&text=Hi%20there%2C%20I%27m%20Cloud_wiz&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:1a1a1a&height=120&section=header&text=Hi%20there%2C%20I%27m%20Cloud_wiz&fontSize=38&fontColor=ffffff" />
 
 <p style="opacity:0.7; font-size:15px; margin:8px 0;">
 Founder & CEO • Sentrix
@@ -63,4 +63,5 @@ sentrix.org@gmail.com
 
 GitHub • Instagram • YouTube • X • Discord
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:1a1a1a&height=120&section=footer" />
 </div>
