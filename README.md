@@ -2,6 +2,12 @@
 
 <img src="./sentrix-logo.png" width="160" />
 
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=22D3EE&center=true&vCenter=true&width=580&lines=Embedded+Systems+Architect;Secure+Hardware+Engineer;AI-Driven+Engineering+%7C+PCB+Design;Prototype+%E2%86%92+Refine+%E2%86%92+Ship)](https://git.io/typing-svg)
+
+<br/>
+
 # Hey there! 👋
 
 I'm **Cloud_wiz**,
@@ -34,7 +40,7 @@ Sentrix operates independently — built with clarity, discipline, and long-term
 
 ---
 
-## ⚙️ Technical Domain.yaml
+## ⚙️ Technical Domain
 
 ```yaml
 Specialization:
@@ -48,6 +54,70 @@ Workflow Integration:
   - AI-assisted engineering refinement
   - Learning-driven system design
   - Practical hardware deployment pipelines
+```
+
+---
+
+## 📊 Engineering Focus Metrics
+
+- Performance-first embedded firmware  
+- Security-driven system architecture  
+- Independent R&D execution  
+- Prototype → production-ready workflows  
+- IoT connectivity & device orchestration  
+
+---
+
+## 🧭 Current Direction
+
+- Designing advanced secure embedded platforms  
+- Refining AI-integrated hardware development workflows  
+- Building scalable, learning-driven hardware systems  
+
+---
+
+## 🧩 Engineering Principles
+
+- Clarity in design  
+- Security by intention  
+- Function before complexity  
+- Built and refined independently  
+
+---
+
+## 📈 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sentrix-wiz&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sentrix-wiz&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+<div align="center">
+
+Secure • Functional • Future-Ready  
+
+📫 sentrix.org@gmail.com  
+
+</div>
+
+---
+
+## 🌐 Connect
+
+<div align="center">
+
+<a href="https://github.com/Sentrix-wiz">GitHub</a> • 
+<a href="https://instagram.com/YOUR_USERNAME">Instagram</a> • 
+<a href="https://youtube.com/@YOUR_CHANNEL">YouTube</a> • 
+<a href="https://twitter.com/YOUR_USERNAME">X</a> • 
+<a href="https://discord.gg/YOUR_INVITE">Discord</a>
+
+</div>
 ```
 
 ---
