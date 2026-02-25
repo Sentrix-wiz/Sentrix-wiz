@@ -1,18 +1,15 @@
-<!-- Top Wave Background -->
-<!-- Wave Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=110&section=header" />
+<!-- Header Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=95&section=header" />
 
-<div align="center" style="margin-top:-85px; margin-bottom:20px;">
+<div align="center" style="margin-top:-65px; margin-bottom:10px;">
 
-<img src="./sentrix-logo.png" width="120" />
+<img src="./sentrix-logo.png" width="110" />
 
 </div>
 
-<br/><br/>
-
 <div align="center">
 
-<p style="opacity:0.8; font-size:15px; margin:8px 0;">
+<p style="opacity:0.8; font-size:15px; margin:6px 0;">
 Founder & CEO • Sentrix
 </p>
 
@@ -26,7 +23,7 @@ Embedded Systems • AI-Driven Engineering • IoT Devices • PCB Architecture
 
 ### About
 
-Hey there! 👋
+Hey there! 👋  
 
 I'm **Cloud_wiz**, founder & CEO of **Sentrix** — an independent hardware initiative based in India.
 
@@ -65,7 +62,7 @@ Built in India. 🇮🇳
 
 ---
 
-<div style="opacity:0.75; margin-top:20px;">
+<div style="opacity:0.75; margin-top:15px;">
 
 Secure • Functional • Future-Ready  
 
@@ -79,6 +76,7 @@ sentrix.org@gmail.com
 
 GitHub • Instagram • YouTube • X • Discord
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=150&section=footer" />
-
 </div>
+
+<!-- Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=90&section=footer" />
