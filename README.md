@@ -2,8 +2,6 @@
 
 <img src="./sentrix-logo.png" width="140" />
 
-<h2 style="margin-top:12px; font-weight:600;">Sentrix</h2>
-
 <p style="opacity:0.65; font-size:15px; margin:6px 0;">
 Founder & CEO • Hardware Systems Architect
 </p>
