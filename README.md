@@ -81,11 +81,11 @@ Secure • Functional • Future-Ready
 
 ---
 
-###🌐 Connect
+##🌐 Connect
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">GitHub</a> • 
+<a href="https://github.com/Sentrix-wiz">GitHub</a> • 
 <a href="https://instagram.com/YOUR_USERNAME">Instagram</a> • 
 <a href="https://youtube.com/@YOUR_CHANNEL">YouTube</a> • 
 <a href="https://twitter.com/YOUR_USERNAME">X</a> • 
