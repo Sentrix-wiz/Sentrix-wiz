@@ -1,7 +1,5 @@
 <!-- Top Wave Background -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=150&section=header" />
-
-<div align="center" style="margin-top:-110px;">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=150&section=header ./sentrix-logo.png" width="140" />
 
 <img src="./sentrix-logo.png" width="140" />
 
