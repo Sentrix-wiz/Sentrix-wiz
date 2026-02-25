@@ -66,6 +66,5 @@ sentrix.org@gmail.com
 <div style="opacity:0.7;">
 
 GitHub • Instagram • YouTube • X • Discord
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:1a1a1a&height=120&section=header&fontSize=38&fontColor=ffffff" />
+å
 </div>
