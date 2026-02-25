@@ -1,54 +1,62 @@
 <div align="center">
 
-<img src="./sentrix-logo.png" width="200" />
+<img src="./sentrix-logo.png" width="150" />
 
-<p style="opacity:0.6; font-size:15px;">
-Founder & CEO • Hardware Systems Architect
+<br/>
+
+<p style="opacity:0.65; font-size:15px; margin-top:10px;">
+Founder & CEO • Sentrix
 </p>
 
-<p style="opacity:0.75; font-size:14px;">
-Embedded Systems • AI-Driven Engineering • IoT • PCB Design
+<p style="opacity:0.8; font-size:14px;">
+Embedded Systems • AI-Driven Engineering • IoT Devices • PCB Architecture
 </p>
 
 </div>
 
-<br/>
+<br/><br/>
 
 ### About
 
-Independent hardware initiative based in India, focused on building practical embedded systems and modern cybersecurity learning platforms.
+Sentrix is an independent hardware initiative based in India, focused on designing and refining practical embedded systems and modern cybersecurity learning platforms.
 
-Combining firmware engineering, AI-assisted workflows, and system-level design to create secure, purpose-built technology.
+Work combines firmware engineering, AI-assisted development workflows, and system-level architecture to build secure, purpose-driven technology.
 
 <br/>
 
 ### Core Focus
 
-Embedded Architecture  
-AI-Assisted Hardware Engineering  
-IoT Device Development  
-PCB Design & Prototyping  
+Embedded System Architecture  
+AI-Integrated Hardware Workflows  
+IoT Device Engineering  
+PCB Design & Hardware Prototyping  
 Firmware Optimization  
-System Interface Design  
+System & Interface Design  
+
+<br/><br/>
+
+<p align="center" style="opacity:0.7;">
+Secure • Functional • Future-Ready
+</p>
+
+<p align="center">
+📫 sentrix.org@gmail.com
+</p>
 
 <br/>
 
-<div align="center" style="opacity:0.6; font-size:14px;">
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
-Secure • Functional • Future-Ready  
-
-sentrix.org@gmail.com  
-
-</div>
-
-<br/>
-
-<div align="center" style="opacity:0.6; font-size:14px;">
-
-<a href="https://github.com/YOUR_USERNAME">GitHub</a>  
-<a href="https://instagram.com/YOUR_USERNAME">Instagram</a>  
-<a href="https://youtube.com/@YOUR_CHANNEL">YouTube</a>  
-<a href="https://twitter.com/YOUR_USERNAME">X</a>  
-<a href="https://discord.gg/YOUR_INVITE">Discord</a>
-
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=80&section=footer" />
+</p>
