@@ -1,15 +1,6 @@
 <div align="center">
 
 <img src="./sentrix-logo.png" width="160" />
-<br/>
-
-![](https://img.shields.io/badge/Cloud__wiz-Founder%20%26%20CEO%20%40%20Sentrix-22d3ee?style=flat-square&labelColor=0d1117)
-&nbsp;
-![](https://img.shields.io/badge/India-0d1117?style=flat-square&logo=googlemaps&logoColor=22d3ee&label=📍)
-&nbsp;
-![](https://komarev.com/ghpvc/?username=Sentrix-wiz&style=flat-square&color=22d3ee&label=Profile+Views&labelColor=0d1117)
-
-</div>
 
 <br/>
 
