@@ -41,7 +41,7 @@ Independent system thinking
 
 ---
 
-<div align="right" style="opacity:0.7;" margin-top:20px;">
+<div align="left" style="opacity:0.7;" margin-top:20px;">
 
 Secure • Functional • Future-Ready  
 
@@ -51,7 +51,7 @@ sentrix.org@gmail.com
 
 ---
 
-<div align="right" style="opacity:0.7;">
+<div align="left" style="opacity:0.7;">
 
 <a href="https://github.com/YOUR_USERNAME">GitHub</a> •
 <a href="https://instagram.com/YOUR_USERNAME">Instagram</a> •
