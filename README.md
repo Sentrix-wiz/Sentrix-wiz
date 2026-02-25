@@ -1,70 +1,94 @@
 <div align="center">
 
-<img src="./sentrix-logo.png" width="140" />
+<img src="./sentrix-logo.png" width="160" />
 
-<p style="opacity:0.7; font-size:15px; margin:8px 0;">
-Founder & CEO • Sentrix
-</p>
+# Cloud_wiz
 
-<p style="opacity:0.85; font-size:14px; margin:4px 0;">
-Embedded Systems • AI-Driven Engineering • IoT Devices • PCB Desinger
+### Founder & CEO — Sentrix  
+**Embedded Systems • AI-Driven Engineering • Secure Hardware Architect**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Location-India-0f172a?style=flat&labelColor=111827&color=22d3ee"/>
+  <img src="https://img.shields.io/badge/Focus-Embedded%20%26%20AI-0f172a?style=flat&labelColor=111827&color=22d3ee"/>
+  <img src="https://img.shields.io/badge/Hardware-Innovation-0f172a?style=flat&labelColor=111827&color=22d3ee"/>
 </p>
 
 </div>
 
 ---
 
-### About
+## 🧠 About
 
-Hey there! 👋
+I am the founder of **Sentrix**, an independent hardware initiative based in India focused on building secure, purpose-driven embedded systems and modern cybersecurity-oriented hardware platforms.
 
-I'm **Cloud_wiz**, founder & CEO of **Sentrix** — an independent hardware initiative based in India.
+My work combines:
 
-Sentrix is an independent hardware initiative based in India focused on building purpose-driven embedded systems and modern cybersecurity hardware platforms.
+- System-level embedded architecture  
+- AI-assisted firmware workflows  
+- Production-grade PCB design  
+- Secure hardware principles  
 
-Development integrates firmware engineering, AI-assisted workflows, and system-level architecture to create secure, production-ready technology.
-
----
-
-### Current Direction
-
-Designing advanced embedded platforms and secure learning-driven hardware systems.
-
-Refining AI-assisted engineering workflows to accelerate practical hardware development.
+Sentrix operates independently — built with clarity, discipline, and long-term technical vision.
 
 ---
 
-### Core Expertise
+## ⚙️ Technical Domain
 
-- Embedded system architecture and device design  
-- AI-integrated hardware workflows  
-- IoT system engineering  
-- PCB design from prototype to deployment  
-- Firmware optimization for real-world environments  
+Specialization:
+  - Embedded System Architecture
+  - IoT Device Engineering
+  - Secure Hardware Design
+  - PCB Design (Prototype → Production)
+  - Firmware Optimization
+
+Workflow Integration:
+  - AI-assisted engineering refinement
+  - Learning-driven system design
+  - Practical hardware deployment pipelines
+
+Engineering Focus Metrics
+ - Performance-first embedded firmware
+ - Security-driven system architecture
+ - Independent R&D execution
+ - Prototype → production-ready workflows
+ - IoT connectivity & device orchestration
+
+Current Direction
+ - Designing advanced secure embedded platforms
+ - Refining AI-integrated hardware development workflows
+ - Building scalable, learning-driven hardware systems
+
+Engineering Principles
+ - Clarity in design.
+ - Security by intention.
+ - Function before complexity.
+ - Built and refined independently.
 
 ---
 
-### Engineering Principles
-
-Clarity in design.  
-Security by intention.  
-Function before complexity.  
-Built and refined independently.
+## 📈 GitHub Analytics
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Sentrix-wiz&show_icons=true&theme=tokyonight&hide_border=true"/> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sentrix-wiz&theme=tokyonight&hide_border=true"/> </p>
 
 ---
 
-<div style="opacity:0.7; margin-top:20px;">
+<div align="center">
 
 Secure • Functional • Future-Ready  
 
-sentrix.org@gmail.com  
+📫 sentrix.org@gmail.com  
 
 </div>
 
 ---
 
-<div style="opacity:0.7;">
+###🌐 Connect
 
-GitHub • Instagram • YouTube • X • Discord
-å
+<div align="center">
+
+<a href="https://github.com/YOUR_USERNAME">GitHub</a> • 
+<a href="https://instagram.com/YOUR_USERNAME">Instagram</a> • 
+<a href="https://youtube.com/@YOUR_CHANNEL">YouTube</a> • 
+<a href="https://twitter.com/YOUR_USERNAME">X</a> • 
+<a href="https://discord.gg/YOUR_INVITE">Discord</a>
+
 </div>
