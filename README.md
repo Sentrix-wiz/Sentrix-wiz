@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="./sentrix-logo.png" width="180" />
+  <img src="./sentrix-logo.png type=waving&color=0:0f2027,100:2c5364&height=140&section=header&text=SENTRIX&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center" style="font-size:16px;">
