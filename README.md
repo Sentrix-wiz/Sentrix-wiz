@@ -1,91 +1,71 @@
 <div align="center">
 
-# Cloud_wiz
+<img src="./sentrix-logo.png" width="140" />
 
-### Founder & CEO @ Sentrix  
-Embedded Systems • AI-Driven Engineering • IoT • PCB Architecture
+<p style="opacity:0.7; font-size:15px; margin:8px 0;">
+Founder & CEO • Sentrix
+</p>
+
+<p style="opacity:0.85; font-size:14px; margin:4px 0;">
+Embedded Systems • AI-Driven Engineering • IoT Devices • PCB Desinger
+</p>
 
 </div>
 
 ---
 
-## Hey there 👋
+### About
 
-I'm **Cloud_wiz**, founder of **Sentrix** — an independent hardware initiative focused on building secure, production-ready embedded systems.
+Hey there! 👋
 
-If an idea solves a real-world problem, I prototype it.  
-If it works, I refine it.  
-If it matters, I ship it.
+I'm **Cloud_wiz**, founder & CEO of **Sentrix** — an independent hardware initiative based in India.
 
-I build real systems — not demos.
+Sentrix is an independent hardware initiative based in India focused on building purpose-driven embedded systems and modern cybersecurity hardware platforms.
 
----
-
-## About Sentrix
-
-Sentrix focuses on developing:
-
-- Secure embedded architectures  
-- Modular IoT device platforms  
-- AI-assisted hardware engineering workflows  
-- Production-ready PCB and firmware systems  
-
-Designed for reliability. Built for deployment.
+Development integrates firmware engineering, AI-assisted workflows, and system-level architecture to create secure, production-ready technology.
 
 ---
 
-## What I'm Currently Working On
+### Current Direction
 
-- Advanced embedded platforms with layered security  
-- AI-integrated engineering workflows for hardware acceleration  
-- Custom device architectures from schematic to firmware  
-- Performance-optimized firmware for constrained environments  
+Designing advanced embedded platforms and secure learning-driven hardware systems.
 
----
-
-## Core Expertise
-
-**Embedded System Architecture**  
-Low-level system design engineered for stability and efficiency.
-
-**Secure IoT Engineering**  
-End-to-end security across hardware, firmware, and communication layers.
-
-**PCB Design & Production**  
-From concept to manufacturable board design.
-
-**Firmware Optimization**  
-Memory-efficient, stable, production-grade firmware.
-
-**Hardware–Software Co-Design**  
-Aligning physical hardware capability with intelligent software systems.
+Refining AI-assisted engineering workflows to accelerate practical hardware development.
 
 ---
 
-## Engineering Philosophy
+### Core Expertise
+
+- Embedded system architecture and device design  
+- AI-integrated hardware workflows  
+- IoT system engineering  
+- PCB design from prototype to deployment  
+- Firmware optimization for real-world environments  
+
+---
+
+### Engineering Principles
 
 Clarity in design.  
 Security by intention.  
 Function before complexity.  
-
-Independent. Focused. Product-driven.
-
----
-
-## Connect
-
-Email: sentrix.org@gmail.com  
-
-GitHub: https://github.com/Sentrix-wiz  
-Instagram: https://instagram.com/YOUR_USERNAME  
-YouTube: https://youtube.com/@YOUR_CHANNEL  
-X: https://x.com/YOUR_USERNAME  
-Discord: https://discord.gg/YOUR_INVITE  
+Built and refined independently.
 
 ---
 
-<div align="center">
+<div style="opacity:0.7; margin-top:20px;">
 
-Secure • Functional • Future-Ready
+Secure • Functional • Future-Ready  
 
+sentrix.org@gmail.com  
+
+</div>
+
+---
+
+<div style="opacity:0.7;">
+
+GitHub • Instagram • YouTube • X • Discord
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:1a1a1a&height=120&section=header&fontSize=38&fontColor=ffffff" />
 </div>
