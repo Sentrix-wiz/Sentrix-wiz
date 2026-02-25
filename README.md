@@ -1,12 +1,12 @@
 <!-- Header Logo -->
-<h1 align="center">Hi, I'm Cloud_wiz</h1>
+<P align="center">Hi, I'm Cloud_wiz</p>
 
 <p align="center" style="opacity:0.7; font-size:14px;">
 Independent Hardware Innovation • Built in India
 </p>
 
 <p align="center" style="font-size:16px; font-weight:500;">
-Founder & CEO • Sentrix Hardware
+Founder & CEO • Sentrix
 </p>
 
 <p align="center" style="opacity:0.85;">
