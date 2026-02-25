@@ -35,28 +35,22 @@ System & Interface Design
 
 <br/><br/>
 
-<p align="center" style="opacity:0.7;">
-Secure • Functional • Future-Ready
-</p>
+<div align="center" style="opacity:0.6; font-size:14px; line-height:1.6;">
 
-<p align="center">
-📫 sentrix.org@gmail.com
-</p>
+Secure • Functional • Future-Ready  
+
+sentrix.org@gmail.com  
+
+</div>
 
 <br/>
 
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+<div align="center" style="opacity:0.6; font-size:14px;">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=80&section=footer" />
-</p>
+<a href="https://github.com/YOUR_USERNAME">GitHub</a> • 
+<a href="https://instagram.com/YOUR_USERNAME">Instagram</a> • 
+<a href="https://youtube.com/@YOUR_CHANNEL">YouTube</a> • 
+<a href="https://twitter.com/YOUR_USERNAME">X</a> • 
+<a href="https://discord.gg/YOUR_INVITE">Discord</a>
+
+</div>
