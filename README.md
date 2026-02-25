@@ -1,48 +1,50 @@
-# Cloud_wiz  
-Founder & CEO — Sentrix  
+# Sentrix
 
-Embedded Systems • AI-Driven Engineering • IoT Devices • PCB Architecture  
-
----
-
-## About
-
-I design and build purpose-driven embedded systems and modern cybersecurity hardware platforms.
-
-My work integrates firmware engineering, AI-assisted development workflows, and system-level architecture to create secure, production-ready technology.
-
-Independent. Focused. Product-driven.
+Founder & CEO — Building advanced embedded systems and secure hardware platforms.
 
 ---
 
-## Current Direction
+## Overview
 
-Developing advanced embedded platforms focused on security, modularity, and real-world deployment.
+I design production-ready embedded systems that integrate firmware engineering, AI-assisted workflows, and system-level architecture. Focus on security, modularity, and real-world deployment.
 
-Refining AI-integrated engineering workflows to accelerate practical hardware innovation.
+---
+
+## What I'm Building
+
+Advancing embedded platforms through:
+- **Secure IoT architecture** — End-to-end hardware and firmware solutions
+- **AI-integrated engineering** — Accelerating hardware innovation with intelligent workflows
+- **PCB to production** — From concept through scaled manufacturing
+- **Firmware reliability** — Optimized performance for demanding environments
 
 ---
 
 ## Core Expertise
 
-• Embedded system architecture & custom device design  
-• AI-assisted hardware engineering workflows  
-• Secure IoT system development  
-• PCB design from prototype to production  
-• Firmware optimization for reliability and performance  
+Embedded system architecture • Custom device design • Secure IoT development  
+PCB design and manufacturing • Firmware optimization • Systems integration  
+Hardware-software co-design • Production-scale deployment
 
 ---
 
-## Engineering Principles
+## Engineering Philosophy
 
-Clarity in design.  
-Security by intention.  
-Function before complexity.  
+**Clarity in design.**  
+Every decision serves the product. Complexity is removed, not hidden.
+
+**Security by intention.**  
+Protection is architected at every layer, not bolted on.
+
+**Function before form.**  
+Elegance follows from purpose, not the reverse.
 
 ---
 
-Secure • Functional • Future-Ready  
+## Connect
 
-sentrix.org@gmail.com  
+[Email](mailto:sentrix.org@gmail.com) • [GitHub](https://github.com/Sentrix-wiz) • [Instagram](https://instagram.com) • [YouTube](https://youtube.com) • [X](https://x.com) • [Discord](https://discord.com)
 
-GitHub • Instagram • YouTube • X • Discord
+---
+
+*Secure • Functional • Future-Ready*
