@@ -140,7 +140,7 @@ All supported work remains transparent and community-focused.
 
 ---
 
-<div align="center">
-**Secure • Functional • Future-Ready**
-📫 sentrix.org@gmail.com
+<div align="left">
+Secure • Functional • Future-Ready  
+📫 sentrix.org@gmail.com  
 </div>
