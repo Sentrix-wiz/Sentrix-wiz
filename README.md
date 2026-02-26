@@ -1,9 +1,6 @@
 <div align="center">
 
-<img src="./sentrix-logo.png" length="10" width="120" />
-<br/>
-
-# Cloud_wiz
+#Hi im, Cloud_wiz
 
 ### Founder & CEO — Sentrix  
 **Embedded Systems • AI-Driven Engineering • Secure Hardware Architect**
@@ -78,19 +75,7 @@ Workflow Integration:
 
 ---
 
-##  GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sentrix-wiz&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sentrix-wiz&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-<div align="center">
+<div align="left">
 
 Secure • Functional • Future-Ready  
 
@@ -102,7 +87,7 @@ Secure • Functional • Future-Ready
 
 ## Connect
 
-<div align="center">
+<div align="left">
 
 <a href="https://github.com/Sentrix-wiz">GitHub</a> • 
 <a href="https://instagram.com/YOUR_USERNAME">Instagram</a> • 
