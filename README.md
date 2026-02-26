@@ -1,15 +1,8 @@
 <div align="center">
-
-# $ whoami → Cloud_wiz
+# $whoami → Cloud_wiz
 
 ### Founder & CEO — Sentrix  
-**Embedded Systems • AI-Driven Engineering • Secure Hardware Architect**
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Location-India-0f172a?style=flat&labelColor=111827&color=22d3ee"/>
-  <img src="https://img.shields.io/badge/Focus-Embedded%20%26%20AI-0f172a?style=flat&labelColor=111827&color=22d3ee"/>
-  <img src="https://img.shields.io/badge/Hardware-Innovation-0f172a?style=flat&labelColor=111827&color=22d3ee"/>
-</p>
+**Embedded Systems • AI-Assisted Engineering • Independent R&D**
 
 </div>
 
