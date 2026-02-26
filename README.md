@@ -1,6 +1,6 @@
 <div align="center">
 
-#Hi im, Cloud_wiz
+# Hi im Cloud_wiz
 
 ### Founder & CEO — Sentrix  
 **Embedded Systems • AI-Driven Engineering • Secure Hardware Architect**
