@@ -7,7 +7,6 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ---
 
@@ -26,7 +25,7 @@ All development is executed independently with structured R&D discipline.
 
 ---
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
 
 ## 🛠️ Tech Stack
 
@@ -46,7 +45,6 @@ All development is executed independently with structured R&D discipline.
 
 ---
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ## 🚀 Featured Projects
 
@@ -62,8 +60,6 @@ Public documentation of IoT experiments and system-level testing logs.
 
 ---
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
 ## 📊 Development Activity
 
 <div align="center">
@@ -75,7 +71,6 @@ Public documentation of IoT experiments and system-level testing logs.
 
 ---
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ## 🔬 Active Development
 
@@ -87,7 +82,7 @@ Public documentation of IoT experiments and system-level testing logs.
 
 ---
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
 
 ## 🧠 Engineering Principles
 
@@ -99,7 +94,6 @@ Public documentation of IoT experiments and system-level testing logs.
 
 ---
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ## 🌍 Open Source Commitment
 
@@ -109,7 +103,7 @@ Transparency and responsible engineering are core to every release.
 
 ---
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
 
 ## ❤️ Why Sponsor
 
