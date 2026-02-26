@@ -139,8 +139,10 @@ All supported work remains transparent and community-focused.
 </div>
 
 ---
+## Secure • Functional • Future-Ready  
 
 <div align="left">
-Secure • Functional • Future-Ready  
 📫 sentrix.org@gmail.com  
+  
 </div>
+---
