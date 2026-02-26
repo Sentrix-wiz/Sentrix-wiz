@@ -60,12 +60,45 @@ Workflow Integration:
 
 ---
 
+## Active Development
+
+- Public firmware experiments
+- Hardware integration logs
+- Ongoing ESP32-S3 development
+- Secure architecture testing
+
+---
+
 ## Engineering Principles
 
 - Clarity in design  
 - Security by intention  
 - Function before complexity  
 - Built and refined independently  
+
+---
+
+## Featured Projects
+
+🔹 Armor one — Secure Embedded Research Platform  
+Modular ESP32-S3 based cybersecurity research hardware.  
+→ Firmware development, hardware integration, secure architecture.
+
+🔹 Sentrix Firmware Experiments  
+AI-assisted embedded system optimization and testing workflows.
+
+🔹 Hardware Research Notes  
+Public documentation of IoT security experiments and hardware learning logs.
+
+---
+
+## Open Source Commitment
+
+I actively publish firmware experiments, embedded system prototypes,
+and research notes to support learning and responsible hardware development.
+
+My goal is to contribute meaningful, practical embedded system knowledge
+to the open-source community.
 
 ---
 
@@ -76,6 +109,19 @@ Secure • Functional • Future-Ready
 📫 sentrix.org@gmail.com  
 
 </div>
+
+---
+
+## Why Sponsor
+
+Sponsorship helps:
+
+- Fund hardware prototyping
+- Improve firmware research
+- Publish open documentation
+- Build accessible embedded learning tools
+
+All supported work remains transparent and community-focused.
 
 ---
 
