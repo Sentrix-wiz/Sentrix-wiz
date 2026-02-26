@@ -5,8 +5,6 @@
 ### Founder & CEO — Sentrix 
 **Embedded Systems • AI-Assisted Engineering • Independent R&D**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Embedded+Systems+Engineer;Secure+Hardware+Architect;ESP32+Firmware+Developer;Independent+R%26D+Builder" />
-
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
