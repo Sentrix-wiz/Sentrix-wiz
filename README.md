@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="./sentrix-logo.png" length="80" width="120" />
-
+<img src="./sentrix-logo.png" length="10" width="120" />
 <br/>
 
 # Cloud_wiz
