@@ -26,26 +26,6 @@ All development is executed independently with structured R&D discipline.
 ---
 
 
-
-## 🛠️ Tech Stack
-
-### Hardware & Firmware
-
-![ESP32](https://img.shields.io/badge/ESP32-003087?style=for-the-badge&logo=espressif&logoColor=white)
-![ESP32-S3](https://img.shields.io/badge/ESP32--S3-003087?style=for-the-badge&logo=espressif&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Embedded C](https://img.shields.io/badge/Embedded_C-555555?style=for-the-badge&logo=c&logoColor=white)
-
-### Design & Workflow
-
-![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![IoT](https://img.shields.io/badge/IoT_Protocols-00B4D8?style=for-the-badge&logo=mqtt&logoColor=white)
-
----
-
-
 ## 🚀 Featured Projects
 
 🔹 **Armor One** — Secure Embedded Research Platform  
