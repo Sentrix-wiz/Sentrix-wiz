@@ -28,8 +28,7 @@ All development is executed independently with structured R&D discipline.
 
 ## 🚀 Featured Projects
 
-🔹 **FirmHub** — Next-Gen Firmware Flasher Hub
-A privacy-first, in-browser flashing platform for secure IoT devices. Built with a premium Web3 dark-glassmorphism UI, real-time serial terminal, and seamless Web Serial API integration.
+🔹 **FirmHub** — A privacy-first, in-browser flashing platform for secure IoT devices. Built with a premium Web3 dark-glassmorphism UI, real-time serial terminal, and seamless Web Serial API integration.
 
 🔹 **Armor One** — Secure Embedded Research Platform
 Modular ESP32-S3 based cybersecurity research hardware. Firmware architecture • Hardware integration • Secure system logic
