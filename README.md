@@ -41,17 +41,6 @@ Public documentation of IoT experiments and system-level testing logs.
 
 ---
 
-## 📊 Development Activity
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sentrix-wiz&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Sentrix-wiz&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 
 ## 🔬 Active Development
 
